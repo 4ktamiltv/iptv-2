@@ -1,0 +1,321 @@
+#EXTM3U https://hdbox.ws/de/ 
+#EXTINF:-1,IN: ZEE TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/9549.ts
+#EXTINF:-1,IN: ZEE TV HD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/9911.ts
+#EXTINF:-1,IN: ZEE CINEMA
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/469.ts
+#EXTINF:-1,IN: ZEE CINEMA india
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18961.ts
+#EXTINF:-1,IN: & TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/12378.ts
+#EXTINF:-1,IN: COLORS
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/485.ts
+#EXTINF:-1,IN:  STAR PLUS
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/463.ts
+#EXTINF:-1,IN: STAR BHARAT
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/482.ts
+#EXTINF:-1,IN: STAR GOLD india
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18966.ts
+#EXTINF:-1,IN: STAR GOLD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/473.ts
+#EXTINF:-1,IN: SONY TV ASIA
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/460.ts
+#EXTINF:-1,IN: SONY SAB
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/461.ts
+#EXTINF:-1,IN: SONY MAX
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/459.ts
+#EXTINF:-1,IN: SONY MIX
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/9908.ts
+#EXTINF:-1,IN: SONY MAX 2
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/9907.ts
+#EXTINF:-1,IN:  COLORS HD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/9909.ts
+#EXTINF:-1,IN: B4U MOVIES
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/471.ts
+#EXTINF:-1,IN:B4U MUSIC
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/470.ts
+#EXTINF:-1,IN: ZING
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/480.ts
+#EXTINF:-1,IN:  VENUS
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/448.ts
+#EXTINF:-1,IN: SANGAT
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/445.ts
+#EXTINF:-1,IN: SAMAA
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/456.ts
+#EXTINF:-1,IN: RISHTEY
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/453.ts
+#EXTINF:-1,IN: RISHTEY CINEPLEX
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/17955.ts
+#EXTINF:-1,IN:  PTV Prime
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/474.ts
+#EXTINF:-1,IN: PTV Global
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/464.ts
+#EXTINF:-1,IN:  PTC PUNJABI
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/475.ts
+#EXTINF:-1,IN: Peace TV Urdu
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/478.ts
+#EXTINF:-1,IN: Peace TV UK
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/483.ts
+#EXTINF:-1,IN: Noor tv
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/457.ts
+#EXTINF:-1,IN:  NDTV 24x7
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/446.ts
+#EXTINF:-1,IN: Madani Channel
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/455.ts
+#EXTINF:-1,IN: Islam Channel
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/467.ts
+#EXTINF:-1,IN: ZEE TV USA HD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18950.ts
+#EXTINF:-1,IN: ZEE ACTION
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/9906.ts
+#EXTINF:-1,IN: ZEE CLASSIC
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/9905.ts
+#EXTINF:-1,IN: ZEE PUNJAI
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/477.ts
+#EXTINF:-1,IN: ZEE BANGLA
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18957.ts
+#EXTINF:-1,IN: ZEE BOLLYWOOD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18959.ts
+#EXTINF:-1,IN: ZEE BUSINESS
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18955.ts
+#EXTINF:-1,IN: ZEE MARATHI
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18954.ts
+#EXTINF:-1,IN: ZEE NEWS
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18958.ts
+#EXTINF:-1,IN: ZEE SALAM
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18953.ts
+#EXTINF:-1,IN: ZEE SMILE
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18952.ts
+#EXTINF:-1,IN: ZEE TALKIES
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18960.ts
+#EXTINF:-1,IN: ZEE TAMIL
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18956.ts
+#EXTINF:-1,IN: ZEE TELUGU
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18951.ts
+#EXTINF:-1,IN: Hum Europe
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/452.ts
+#EXTINF:-1,IN: Hidayat TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/449.ts
+#EXTINF:-1,IN: Geo TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/458.ts
+#EXTINF:-1,IN: Geo Kahani
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/486.ts
+#EXTINF:-1,IN:  Geo news
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/481.ts
+#EXTINF:-1,IN:  Dunya News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/450.ts
+#EXTINF:-1,IN: Aastha TV International
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/447.ts
+#EXTINF:-1,IN:  AAJ TAK
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/479.ts
+#EXTINF:-1,IN: ZEE MARATHI USA
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18965.ts
+#EXTINF:-1,--------------- Extra -----------------------
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19067.ts
+#EXTINF:-1,IN: Star Sports 1
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18970.ts
+#EXTINF:-1,IN: Star Sports 2
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18969.ts
+#EXTINF:-1,IN: Star Sports 3
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18968.ts
+#EXTINF:-1,IN: Star Sports 4
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18967.ts
+#EXTINF:-1,IN:  Chakde TV Punjabi
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19006.ts
+#EXTINF:-1,IN:  Gurbani TV Punjabi
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19005.ts
+#EXTINF:-1,IN:  PBN Music Punjabi
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19003.ts
+#EXTINF:-1,IN:  PTC Chak De Punjabi
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19011.ts
+#EXTINF:-1,IN:  Saab TV Punjabi
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19002.ts
+#EXTINF:-1,IN:  SikhTV Punjabi
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19001.ts
+#EXTINF:-1,IN:  TV84 Punjabi
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19000.ts
+#EXTINF:-1,IN:  Zoom
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19037.ts
+#EXTINF:-1,IN: 8XM
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18999.ts
+#EXTINF:-1,IN: 92 HD News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19032.ts
+#EXTINF:-1,IN: A Plus TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19072.ts
+#EXTINF:-1,IN: ABP NEWS
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19033.ts
+#EXTINF:-1,IN: Ahlebait TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19069.ts
+#EXTINF:-1,IN: And Picture
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19060.ts
+#EXTINF:-1,IN: AND TV (India)
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19056.ts
+#EXTINF:-1,IN: ARY Family
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19071.ts
+#EXTINF:-1,IN: Asianet
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19042.ts
+#EXTINF:-1,IN: Asianet Movies
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19045.ts
+#EXTINF:-1,IN: Asianet News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19044.ts
+#EXTINF:-1,IN: Asianet Plus
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19043.ts
+#EXTINF:-1,IN: ATN Bangla
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19070.ts
+#EXTINF:-1,IN: atn news
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18978.ts
+#EXTINF:-1,IN: ATV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19052.ts
+#EXTINF:-1,IN: Awaz TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18989.ts
+#EXTINF:-1,IN: banglavision
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18985.ts
+#EXTINF:-1,IN: bijoy
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18980.ts
+#EXTINF:-1,IN: Boishakhi
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18979.ts
+#EXTINF:-1,IN: BOL NEWS HD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19031.ts
+#EXTINF:-1,IN: btv
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18982.ts
+#EXTINF:-1,IN: btv world
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18981.ts
+#EXTINF:-1,IN: Capital News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19023.ts
+#EXTINF:-1,IN: Cartoon Network Hindi
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19057.ts
+#EXTINF:-1,IN: channel 24
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18977.ts
+#EXTINF:-1,IN: CHANNEL 9
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18987.ts
+#EXTINF:-1,IN: channel 99
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18976.ts
+#EXTINF:-1,IN: Channel Five
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18997.ts
+#EXTINF:-1,IN: CHANNEL I EU
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18986.ts
+#EXTINF:-1,IN: CHANNEL S
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18975.ts
+#EXTINF:-1,IN: Chardiala TIME TV Punjabi
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19004.ts
+#EXTINF:-1,IN: City 24/42 News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19028.ts
+#EXTINF:-1,IN: City 42
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19027.ts
+#EXTINF:-1,IN: Dawn News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19026.ts
+#EXTINF:-1,IN: DEEPTO HD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18974.ts
+#EXTINF:-1,IN: Din News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19025.ts
+#EXTINF:-1,IN: Dunya News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19068.ts
+#EXTINF:-1,IN: Ehtesab News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19024.ts
+#EXTINF:-1,IN: EXPRESS ENT
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19018.ts
+#EXTINF:-1,IN: Express News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19020.ts
+#EXTINF:-1,IN: Express TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19019.ts
+#EXTINF:-1,IN: gaan bangla
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18973.ts
+#EXTINF:-1,IN: GEO Entertainment
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19017.ts
+#EXTINF:-1,IN: Geo Super
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19016.ts
+#EXTINF:-1,IN: Hadi TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18996.ts
+#EXTINF:-1,IN: Health TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18993.ts
+#EXTINF:-1,IN: Hum Masala
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19014.ts
+#EXTINF:-1,IN: Hum Sitaray
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19013.ts
+#EXTINF:-1,IN: HUM TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19015.ts
+#EXTINF:-1,IN: HumWorld
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19010.ts
+#EXTINF:-1,IN: iTV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18983.ts
+#EXTINF:-1,IN: Jalwa TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18995.ts
+#EXTINF:-1,IN: Jaya Max USA
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19041.ts
+#EXTINF:-1,IN: Jaya Movies
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19040.ts
+#EXTINF:-1,IN: Jaya Plus
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19039.ts
+#EXTINF:-1,IN: Jaya TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19038.ts
+#EXTINF:-1,IN: Khyber News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19034.ts
+#EXTINF:-1,IN: KHYBER TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19035.ts
+#EXTINF:-1,IN: KTN TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18994.ts
+#EXTINF:-1,IN: LAHORE NEWS HD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19029.ts
+#EXTINF:-1,IN: Living Food Food
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19051.ts
+#EXTINF:-1,IN: M Tunes
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19049.ts
+#EXTINF:-1,IN: MH1 MUSIC
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19050.ts
+#EXTINF:-1,IN: New Vision TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19073.ts
+#EXTINF:-1,IN: NEWS 24 HD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18972.ts
+#EXTINF:-1,IN: News One
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19030.ts
+#EXTINF:-1,IN: ntv
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18984.ts
+#EXTINF:-1,IN: PTV News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19008.ts
+#EXTINF:-1,IN: PTV SPORTS
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19007.ts
+#EXTINF:-1,IN: Pushto ONE
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18992.ts
+#EXTINF:-1,IN: Royal TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18991.ts
+#EXTINF:-1,IN: Roze News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19021.ts
+#EXTINF:-1,IN: Santhora TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19036.ts
+#EXTINF:-1,IN: Sindh TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18998.ts
+#EXTINF:-1,IN: Sony ESPN HD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19066.ts
+#EXTINF:-1,IN: Sony Six HD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19065.ts
+#EXTINF:-1,IN: SONY TEN 1 HD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19064.ts
+#EXTINF:-1,IN: SONY TEN 2
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19063.ts
+#EXTINF:-1,IN: SONY TEN 3
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19062.ts
+#EXTINF:-1,IN: Star Jalsha
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19055.ts
+#EXTINF:-1,IN: Star Movies HD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19061.ts
+#EXTINF:-1,IN: Star Vijoy
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19054.ts
+#EXTINF:-1,IN: Sun Music
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19048.ts
+#EXTINF:-1,IN: Sun TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19047.ts
+#EXTINF:-1,IN: Surya TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19046.ts
+#EXTINF:-1,IN: Tehzeeb TV
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18990.ts
+#EXTINF:-1,IN: TV One Global
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/18988.ts
+#EXTINF:-1,IN: urdu 1
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19012.ts
+#EXTINF:-1,IN: UTV MOVIES HD
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19059.ts
+#EXTINF:-1,IN: Waqt News
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19022.ts
+#EXTINF:-1,IN: Zee Anmol Cinema
+http://forever.moppie.info:7444/live/AFGSHDFYTRDWUIDKJHFGY77737734HJKLF/asdfgertyufghjkjhre123456543/19058.ts

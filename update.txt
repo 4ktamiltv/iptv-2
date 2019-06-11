@@ -45,6 +45,8 @@ http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw2753977440_1335826470/PLTV/88888888/224/3221226055/index.m3u8
 #EXTINF:-1,Enterr 10
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/index.m3u8
+#EXTINF:-1,Aaj Tak
+http://z5ams.akamaized.net/aajtak/tracks-v1a1/index.m3u8
 #EXTINF:-1,India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
 #EXTINF:-1,News 18 India

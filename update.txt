@@ -5,7 +5,7 @@ http://thoptvofficial.icu/api/jasmine/stbdc.m3u8?dc=I0VYVE0zVQojRVhULVgtVkVSU0lP
 #EXTINF:-1,Star Pravaah
 http://thoptvofficial.icu/api/tulip/star.m3u8?id=1260000006&tvauth=kha2hNVFUyTURZMk9ERXhOZz09CjphMWUxNWRlYjE5NzI2YTMwMjgyOWQzYWMxMDIzMTljZQ==
 #EXTINF:-1,Sony Marathi
-http://mhms10.airtel.tv/PLTV/88888888/224/3221226568/index.m3u
+http://mhms10.airtel.tv/PLTV/88888888/224/3221226568/index.m3u8
 #EXTINF:-1,Zee Yuva
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226096/index.m3u8
 #EXTINF:-1,Zee Talkies

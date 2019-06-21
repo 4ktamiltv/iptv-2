@@ -1,11 +1,5 @@
 #EXTINF:-1,Zee Marathi
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225881/index.m3u8
-#EXTINF:-1,Colors Marathi HD
-http://thoptvofficial.icu/api/jasmine/stbdc.m3u8?dc=I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1TVFJFQU0tSU5GOlBST0dSQU0tSUQ9MSxDTE9TRUQtQ0FQVElPTlM9Tk9ORSxCQU5EV0lEVEg9MTIwMDAwMApDb2xvcnNfTWFyYXRoaV9IRF9KU1JWMV8xMjAwLm0zdTgKI0VYVC1YLVNUUkVBTS1JTkY6UFJPR1JBTS1JRD0xLENMT1NFRC1DQVBUSU9OUz1OT05FLEJBTkRXSURUSD00MDAwMDAwCkNvbG9yc19NYXJhdGhpX0hEX0pTUlYxXzQwMDAubTN1OAojRVhULVgtU1RSRUFNLUlORjpQUk9HUkFNLUlEPTEsQ0xPU0VELUNBUFRJT05TPU5PTkUsQkFORFdJRFRIPTgwMDAwMDAKQ29sb3JzX01hcmF0aGlfSERfSlNSVjFfODAwMC5tM3U4Cg==&tvurl=aHR0cDovL2ppb3R2c3RiLmxpdmUuY2RuLmppby5jb20vQ29sb3JzX01hcmF0aGlfSEQvQ29sb3JzX01hcmF0aGlfSERfU1RCLm0zdTg=&tvauth=oab2FNVFUyTURZMk5EQTJPUT09Cjo2NzRiZTQzNmYzNzBkNzdjOGRiZjE5YWIzNDJkYWIxOQ==
-#EXTINF:-1,Star Pravaah
-http://thoptvofficial.icu/api/tulip/star.m3u8?id=1260000006&tvauth=kha2hNVFUyTURZMk9ERXhOZz09CjphMWUxNWRlYjE5NzI2YTMwMjgyOWQzYWMxMDIzMTljZQ==
-#EXTINF:-1,Sony Marathi
-http://185.132.134.32:1100/south2019/sonymarathi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDE5IDc6MDY6MDEgQU0maGFzaF92YWx1ZT1tWXhZLzhPZnE4YXRXUlN4WUJoai9RPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,Zee Yuva
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226096/index.m3u8
 #EXTINF:-1,Zee Talkies
@@ -15,9 +9,9 @@ http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 #EXTINF:-1,ABP Majha
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226020/index.m3u8
 #EXTINF:-1,Zee 24 Taas
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225926/index.m3u84
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225926/index.m3u8
 #EXTINF:-1,IBN Lokmat
-https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/master.m3u8?hdnea=st=1560658944~exp=1560694944~acl=/*~hmac=8bd3f5f8d7cdb00f0d88c81a8a81295d9f51b0733d5e9f6cc79c2ab4fd96fe1e
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5.m3u8
 #EXTINF:-1,TV9 Marathi
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226370/index.m3u8
 #EXTINF:-1,Maiboli
@@ -56,16 +50,13 @@ http://cshms3.airtel.tv/wh7f454c46tw2753977440_1335826470/PLTV/88888888/224/3221
 #EXTINF:-1,Enterr 10
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/index.m3u8
 #EXTINF:-1,Aaj Tak
-http://thoptvofficial.icu/api/tulip/star.m3u8?id=1000120159&tvauth=amYW1NVFUyTURZMk5qSTRNdz09CjpmZTJjYmQ0Mjc0NDU2MzViYTljZWZiYzUyODI5MWFjNQ==
-#http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226425/index.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1,ABP News
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226006/index.m3u8
 #EXTINF:-1,NDTV India
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/index_1_av-p.m3u8
 #EXTINF:-1,News 18 India
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
-#EXTINF:-1,Republic TV
-http://thoptvofficial.icu/api/tulip/star.m3u8?id=1000116802&tvauth=oyb3lNVFUyTURZMk5qTTVOdz09Cjo5NTUxYThlYmUxNTMzYzY5MGRlODA5MzNlMTdhNWE3NA==
 #EXTINF:-1,Zee Business
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225930/01.m3u8
 #EXTINF:-1,Discovery HD World

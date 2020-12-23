@@ -1304,9 +1304,9 @@ https://www.youtube.com/watch?v=L4NSODYz7TU
 
 @4ktamiltv
 4ktamiltv 
-commented 15 days ago
-#EXTINF:0, group-title="Tamil",Jaffna TV
-http://184.173.179.163:1935/Jaffnatv/Jaffnatv/playlist.m3u8
+commented 1 days ago
+#EXTINF:0, group-title="Tamil",Sooriyan TV
+http://184.173.179.163:1935/Sooriyantv/Sooriyantv/playlist.m3u8
 
 #EXTINF:0, group-title="Tamil",4K Tamil TV
-http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/playlist.m3u8
+http://59d39900ebfb8.streamlock.net:1935/Sooriyantv/Sooriyantv/playlist.m3u8
